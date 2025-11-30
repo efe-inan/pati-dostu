@@ -2,7 +2,6 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
-// Senin Firebase Config Kodların Buraya Gelecek
 const firebaseConfig = {
   apiKey: "apikey",
   authDomain: "pati-dostu-efe.firebaseapp.com",
