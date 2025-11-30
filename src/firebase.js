@@ -4,7 +4,7 @@ import { getFirestore } from "firebase/firestore";
 
 // Senin Firebase Config Kodların Buraya Gelecek
 const firebaseConfig = {
-  apiKey: "AIzaSyD3o8gVszmieREM_tdiG2dGt1h6szbnI00",
+  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
   authDomain: "pati-dostu-efe.firebaseapp.com",
   projectId: "pati-dostu-efe",
   storageBucket: "pati-dostu-efe.firebasestorage.app",
