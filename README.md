@@ -45,7 +45,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak isterseniz:
 
 ## 📝 Notlar
 
-Bu proje benim için hem bir öğrenme süreci hem de hayvanlara olan sevgimi teknolojiyle birleştirme fırsatı oldu. Geliştirmeye ve yeni özellikler eklemeye devam ediyorum. Her türlü geri bildirime açığım!
+Bu proje benim için hem bir öğrenme süreci hem de hayvanlara olan sevgimi teknolojiyle birleştirme fırsatı oldu. Geliştirmeye ve yeni özellikler eklemeye devam ediyorum. Her türlü geri bildirime açığım.
 
 ---
 *Sevgiyle kodlandı.* 🧡
