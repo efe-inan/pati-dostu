@@ -28,7 +28,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak isterseniz:
 
 1.  Repoyu klonlayın:
     ```bash
-    git clone https://github.com/KULLANICI_ADI/pati-dostu.git
+    git clone https://github.com/efe-inan/pati-dostu.git
     ```
 2.  Proje dizinine gidin:
     ```bash
